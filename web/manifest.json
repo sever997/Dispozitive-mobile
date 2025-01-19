@@ -1,0 +1,12 @@
+{
+  "name": "Student Resource Hub",
+  "short_name": "Resource Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f1f4f8",
+  "description": "A Student Resource Hub application.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "gcm_sender_id": "726616670078"
+} 

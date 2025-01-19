@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726616670078",
+    "project_id": "student-resource-hub-24hvca",
+    "storage_bucket": "student-resource-hub-24hvca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726616670078:android:917041f4dee28f4d41fd2f",
+        "android_client_info": {
+          "package_name": "com.mycompany.studentresourcehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1JAXpICAOhUwZyAyLi1S0PBKrmu28FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
